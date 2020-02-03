@@ -1,11 +1,11 @@
 # Site settings
 author: Courtney DeRiggs
-title: New to Coding: Make the switch from GUI to CLI
+title: No Mouse Land
 header-img: img/home-bg.png
 email: courtney.deriggs@gmail.com
 copyright_name: Courtney DeRiggs
 description: > # this means to ignore newlines until "baseurl:"
-  It's not as hard as you think!
+  Using GNU nano 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Coder0766
